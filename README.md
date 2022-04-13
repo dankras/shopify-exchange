@@ -22,7 +22,7 @@ import random
 
 BASE_URL = 'https://exchangemarketplace.com/shops.json'
 current_page = 1
-TOTAL_PAGES = 401
+TOTAL_PAGES = X # alternatively, it looks like the response has a isLastPage boolean you could use
 
 all_shops = []
 
