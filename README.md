@@ -8,7 +8,7 @@ I collected some data from the exchange on 2/20/2020 and 4/10/2020, [wrote about
 
 If you're interested, I'll leave a little script you could use to collect more data at the bottom of this readme.
 
-It would be cool to periodically scrape the exchange to generate a Shopify Exchange Index with aggregate statistics that could be tracked over time.
+It would be cool to periodically scrape the exchange to generate a Shopify Exchange Index to track changes in the marketplace over time.
 
 Relevant: [OpenStore](https://open.store/)
 
