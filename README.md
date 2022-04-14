@@ -4,7 +4,7 @@ The Shopify Exchange is a marketplace for buying and selling e-commerce business
 
 Browsing inventory on the Exchange is a pretty bad experience, but luckily, Shopify exposes an [endpoint](https://exchangemarketplace.com/shops.json?page=1) that has richer listing data. 
 
-I collected some data from the exchange on 2/20/2020 and 4/10/2020, wrote about it here, and shared the CSVs in this repo. 
+I collected some data from the exchange on 2/20/2020 and 4/10/2020, [wrote about it here](https://dkras.substack.com/p/shopify-stores-at-sensible-prices?r=4alx0&s=w&utm_campaign=post&utm_medium=web), and shared the CSVs in this repo. 
 
 If you're interested, I'll leave a little script you could use to collect more data at the bottom of this readme.
 
